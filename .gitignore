@@ -1,2 +1,5 @@
 
 .env
+Data/mimic_report_test.csv
+.DS_Store
+/VectorStore
